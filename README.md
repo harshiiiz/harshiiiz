@@ -8,7 +8,7 @@ Ask me about DSA, Reactjs, Nextjs, HTML, CSS, Javascript
 
 * 🌍  I'm based in India.
 * ✉️  You can contact me at [harshitasahu3110@gmail.com.](mailto:harshitasahu3110@gmail.com.)
-* 🧠  I'm learning Full-stack deveopment.
+* 🧠  I'm learning Full-stack web development.
 * 🤝  I'm open to collaborating on interesting web projects.
 
 ### Skills
